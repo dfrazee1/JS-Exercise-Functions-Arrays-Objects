@@ -331,7 +331,6 @@ function carMaker(num) {
   }
   return stuff;
 }
-
 /// ////// END OF CHALLENGE /////////
 /// ////// END OF CHALLENGE /////////
 /// ////// END OF CHALLENGE /////////
